@@ -97,10 +97,10 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 ## Heroku Link
 
-A link to the [Video](https://drive.google.com/file/d/1MnxTEpfjKBl_fYjkzBEdrf7i9exX2AQb/view):
+A link to the [Heroku](https://nameless-reef-33587-b9b0e2e36996.herokuapp.com):
 
 ```
-https://drive.google.com/file/d/1MnxTEpfjKBl_fYjkzBEdrf7i9exX2AQb/view
+https://nameless-reef-33587-b9b0e2e36996.herokuapp.com
 
 ```
 
